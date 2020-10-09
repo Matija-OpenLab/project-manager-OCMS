@@ -1,0 +1,11 @@
+plugin:
+    name: 'matija.projects::lang.plugin.name'
+    description: 'matija.projects::lang.plugin.description'
+    author: Matija
+    icon: oc-icon-book
+    homepage: ''
+navigation:
+    Projects:
+        label: Projects
+        url: /matija/projects/projects
+        icon: icon-book

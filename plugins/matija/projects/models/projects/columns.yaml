@@ -1,0 +1,17 @@
+columns:
+    id:
+        label: ID
+        type: number
+        searchable: false
+        sortable: true
+    name:
+        label: Name
+        type: text
+        searchable: true
+        sortable: true
+    creation_date:
+        label: Created_at
+        type: date
+    color:
+        label: Color
+        type: text

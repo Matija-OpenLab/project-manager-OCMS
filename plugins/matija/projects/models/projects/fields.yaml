@@ -1,0 +1,14 @@
+fields:
+    name:
+        label: Name
+        span: auto
+        type: text
+    color:
+        label: Color
+        span: auto
+        type: text
+    creation_date:
+        label: 'Created at'
+        mode: datetime
+        span: auto
+        type: datepicker

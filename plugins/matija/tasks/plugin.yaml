@@ -1,0 +1,6 @@
+plugin:
+    name: 'matija.tasks::lang.plugin.name'
+    description: 'matija.tasks::lang.plugin.description'
+    author: Matija
+    icon: oc-icon-tasks
+    homepage: ''

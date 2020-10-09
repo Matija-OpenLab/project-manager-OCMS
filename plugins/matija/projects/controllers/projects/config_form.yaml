@@ -1,0 +1,10 @@
+name: Projects
+form: $/matija/projects/models/projects/fields.yaml
+modelClass: Matija\Projects\Models\Projects
+defaultRedirect: matija/projects/projects
+create:
+    redirect: 'matija/projects/projects/update/:id'
+    redirectClose: matija/projects/projects
+update:
+    redirect: matija/projects/projects
+    redirectClose: matija/projects/projects
