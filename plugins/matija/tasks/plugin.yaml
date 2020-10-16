@@ -4,3 +4,8 @@ plugin:
     author: Matija
     icon: oc-icon-tasks
     homepage: ''
+navigation:
+    main-menu-item:
+        label: Tasks
+        url: /matija/tasks/tasks
+        icon: icon-tasks

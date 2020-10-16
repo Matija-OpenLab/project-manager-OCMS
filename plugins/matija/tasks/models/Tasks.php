@@ -26,4 +26,7 @@ class Tasks extends Model
      */
     public $rules = [
     ];
+    public $hasOne = [
+        'project' => ['Matija\Projects\Models\Projects']
+    ];
 }

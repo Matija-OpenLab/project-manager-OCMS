@@ -11,7 +11,7 @@ columns:
         sortable: true
     creation_date:
         label: Created_at
-        type: date
+        type: text
     color:
         label: Color
         type: text

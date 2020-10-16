@@ -1,0 +1,10 @@
+name: Tasks
+form: $/matija/tasks/models/tasks/fields.yaml
+modelClass: Matija\Tasks\Models\Tasks
+defaultRedirect: matija/tasks/tasks
+create:
+    redirect: 'matija/tasks/tasks/update/:id'
+    redirectClose: matija/tasks/tasks
+update:
+    redirect: matija/tasks/tasks
+    redirectClose: matija/tasks/tasks

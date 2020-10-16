@@ -1,0 +1,12 @@
+list: $/matija/tasks/models/tasks/columns.yaml
+modelClass: Matija\Tasks\Models\Tasks
+title: Tasks
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'matija/tasks/tasks/update/:id'

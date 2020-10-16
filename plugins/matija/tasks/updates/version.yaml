@@ -9,3 +9,12 @@
 1.0.4:
     - 'Created table matija_tasks_tasks'
     - builder_table_create_matija_tasks_tasks_2.php
+1.0.5:
+    - 'Updated table matija_tasks_tasks'
+    - builder_table_update_matija_tasks_tasks.php
+1.0.6:
+    - 'Updated table matija_tasks_tasks'
+    - builder_table_update_matija_tasks_tasks_2.php
+1.0.7:
+    - 'Updated table matija_tasks_tasks'
+    - builder_table_update_matija_tasks_tasks_3.php

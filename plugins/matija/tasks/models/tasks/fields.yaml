@@ -1,0 +1,22 @@
+fields:
+    content:
+        label: Content
+        span: auto
+        required: 1
+        type: text
+    priority:
+        label: Priority
+        span: auto
+        default: '0'
+        required: 1
+        type: number
+    is_finished:
+        label: 'Is finished'
+        span: auto
+        default: 0
+        type: checkbox
+    finished_at:
+        label: 'Finished at'
+        span: auto
+        mode: datetime
+        type: datepicker

@@ -26,4 +26,8 @@ class Projects extends Model
      */
     public $rules = [
     ];
+
+    public $hasMany = [
+        'tasks' => ['Matija\Tasks\Models\Tasks', 'delete' => true]
+    ];
 }

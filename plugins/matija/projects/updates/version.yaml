@@ -3,3 +3,6 @@
 1.0.2:
     - 'Created table matija_projects_projects'
     - builder_table_create_matija_projects_projects.php
+1.0.3:
+    - 'Updated table matija_projects_projects'
+    - builder_table_update_matija_projects_projects.php
